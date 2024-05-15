@@ -1,18 +1,17 @@
-## Getting Started
+## Tic Tac Toe
+Tic Tac Toe is a classic game where two players take turns marking spaces in a 3x3 grid with their respective symbols (X or O). The objective is to be the first to complete a line (horizontal, vertical, or diagonal) with their symbol.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Features
+- Simple and intuitive graphical user interface.
+- Allows two players to play against each other.
+- Tracks player turns and displays the current player.
+- Detects when a player wins or when the game ends in a draw.
+- Option to start a new game or exit the application.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Game Intructions
+1. Run the compiled program.
+2. The game window will open, displaying the main menu.
+3. Click on "New Game" to start a new game.
+4. Players take turns clicking on the grid to place their symbol (X or O).
+5. The game ends when a player wins or when there is a draw.
+6. After the game ends, you can choose to play again or exit the application.
